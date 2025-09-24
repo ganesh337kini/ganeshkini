@@ -29,9 +29,10 @@ Passionate about building impactful applications, solving real-world problems, a
 
 ## 📂 Featured Projects  
 
-### 🔹 [Portfolio Website](https://github.com/your-username/portfolio-website)  
-A personal portfolio showcasing my skills, projects, and achievements.  
-**Tech:** React, HTML, CSS  
+### 🔹 [Airbnb Clone](https://github.com/your-username/airbnb-clone)  
+A full-stack Airbnb clone with user authentication, property listings, booking system, and search filters.  
+**Tech:** React, Node.js, Express, MongoDB  
+
 
 ---
 
